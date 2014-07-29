@@ -4,6 +4,7 @@ Amazon Javascript demos for my public lectures.
 
 Presentation
 ==========
+<a href="http://www.slideshare.net/dimityrdanailov/nodejs-cloud-conf-varna-26072014" target="_blank" title="Nodejs and Cloud">Slideshare</a>
 
 License
 ====================
