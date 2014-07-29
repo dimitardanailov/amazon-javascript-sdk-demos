@@ -1,0 +1,15 @@
+{
+  "name": "amazon-simple-demo-s3",
+  "version": "0.0.1",
+  "description": "Simple using amazon S3",
+  "main": "server/server.js",
+  "author": "Dimitar Daanailov",
+
+  "dependencies": {
+    "aws-sdk": "latest"
+  },
+
+  "engines": {
+    "node": "0.10.26"
+  }
+}
